@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 1",
+      "desc":"Craftsman Playground Melon 1",
+      "photo":"https://iili.io/H4d43fn.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 2",
+      "desc":"Craftsman Playground Melon 2",
+      "photo":"https://iili.io/H4d4diX.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 3",
+      "desc":"Craftsman Playground Melon 3",
+      "photo":"https://iili.io/H4deJmF.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 4",
+      "desc":"Craftsman Playground Melon 4",
+      "photo":"https://iili.io/H4dfhL7.jpg"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 5",
+      "desc":"Craftsman Playground Melon 5",
+      "photo":"https://iili.io/H4d4qJf.png"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 6",
+      "desc":"Craftsman Playground Melon 6",
+      "photo":"https://iili.io/H4d4KUG.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 7",
+      "desc":"Craftsman Playground Melon 7",
+      "photo":"https://iili.io/H4d4nb2.png"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod Pack 8",
+      "desc":"Craftsman Playground Melon 8",
+      "photo":"https://iili.io/H4d4COl.webp"}
   ]
 
 }
